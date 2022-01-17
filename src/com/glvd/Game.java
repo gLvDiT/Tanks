@@ -18,8 +18,8 @@ public class Game {
 		ImageHelper.cropImage(6, 3,Map.TREE);
 		ImageHelper.cropImage(9, 0,Map.EMPTY);
 		ImageHelper.cropImage(8, 0,Map.DESTROYED_TANK);
-		
-		
+
+
 		// Добавляем красную платформу
 		// 10 - 19
 		for (int i = 0; i <= 9; i++) {
